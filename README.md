@@ -5,3 +5,4 @@ Day  Difficullty Level           Task Name
 4       830                      Palindrome
 5       400                      Range
 6       940                      Frame_Finder (Array)
+7       949                      Rearrange to get a multiple of 5
